@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card {
+  max-width: 90%;
+  margin:20px;
+  background-color: whitesmoke;
+}
+input {
+  border-radius: 10px;
+}
+h1 {
+  color: tomato;
+}
